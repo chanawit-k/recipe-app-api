@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'drf_spectacular',
     'user',
-    'rest_framework_api_key'
+    'rest_framework_api_key',
+    'recipe'
 ]
 
 MIDDLEWARE = [
